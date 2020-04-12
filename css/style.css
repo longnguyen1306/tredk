@@ -250,19 +250,19 @@ button:focus,
 .header {
     padding        : 0;
     margin         : 0;
-    height         : 100vh;
+    height         : 107vh;
     vertical-align : middle;
     position       : relative;
     }
 
 .header .profile-img {
     position            : absolute;
-    top                 : 0;
+    top                 : -50px;
     left                : 0;
     z-index             : -1;
     width               : 100%;
     height              : 100%;
-    background-image    : url(../img/img-profile.jpg);
+    background-image    : url(https://lh3.googleusercontent.com/vSeTRqz2kHnerk1hzKt0nnQHU9buVL7Pmd55mSkUwdSgs6F4LKJEGeMVZLaAQU8VEvVwTLUFOQa8nIsu6GbjNm1ahlY9dy5btEOY-zzsgPX4mMK7J-0LzARQQ7dmVURv3Ik9lOLX6Kn6c5irarhOHg7c2EhlYyTVYsB9g8K1ATQS5olh5W3v4BdgbJYRfaEAhrDV4xl1Pq3uVYo_Ws5gSVuY13ZVIRqM_dJ4AWdu71DBGr5rSRpOjF9r2lWkdu0QhCdRUtVAqnhuz6CP5wEAYnEw2EBmp0_7P4lnp7Wxy2q5L453Nc8qc803NdXLJ8kYmoZwgvTo7RPo6rA5w9o77r9DbDjpuX-YtY98xESCjYFLmka6gX-xmwu9qpaGsl_mnCQ2Y1eJeHIZSS7rRwz7OqOBXy5jyX11Kn-wIndWgAAIKSHhykuJB-eX5QYI5Fo4N4qpMk9o9llVRUKl1jJVfhieXmReQTbjuaXJpkqB11uNjJKEBQiubxlrYqzWbBx1l24NP3zL1TJiVnl--cOJiXnJiRfGHa-empEte9gx5FMBDWKbYir8veErs9eJd6rduqwlFL-Oz5xU3e02KtaUZBZfVh7KWGXDVNoy0SvQnnY3-60dlEhOyXqrpJCNQ7shlNoflvJ471JeZcfnQjxs1r-pYzwGkVqjujk-GQpjzJsd-aGI1ri8fUE1Ch5qTA=w814-h1442-no);
     background-size     : cover;
     background-position : center top;
     }
